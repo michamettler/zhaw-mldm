@@ -1,0 +1,18 @@
+# Mathematische und numerische Bibliotheken
+numpy
+pandas
+
+# Visualisierung
+matplotlib
+seaborn
+
+# Machine Learning und Data Science
+scikit-learn
+
+# Jupyter Notebook Support
+jupyter
+
+# TensorFlow/Keras für Deep Learning
+tensorflow
+keras
+datasets
